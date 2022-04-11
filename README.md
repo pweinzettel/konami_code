@@ -8,10 +8,10 @@ Así fue que di con el repositorio en GitHub de [NicoHood / Nintendo](https://gi
 
 Basicamente usando la libreria de [NicoHood](https://github.com/NicoHood), puedo simular un mando de GameCube y asi hacer que la Wii me tome el Konami Code. Me parecio senillo y economico, ya que solo se necesita contar con un arduino y algunos cables.
 
-# Pinout del conector de la consola
+## Pinout del conector de la consola
 
 ![plot](./pinout-consola.jpg)
 
-# Nombre de los botones segun aparecen en el proyecto
+## Nombre de los botones segun aparecen en el proyecto
 
 ![plot](./controller_buttons.jpg)
